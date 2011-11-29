@@ -1,0 +1,12 @@
+idea*
+.idea/*
+build/*
+build*
+Resources/Public/css/.sass-cache*
+Resources/Public/css/.sass-cache/*
+Resources/Private/PHP/tcpdf/cache*
+Resources/Private/PHP/tcpdf/cache/*
+.settings/
+.buildpath
+.project
+*~
